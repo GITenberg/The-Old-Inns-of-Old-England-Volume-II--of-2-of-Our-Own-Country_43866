@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39133'
     url: http://www.gutenberg.org/2009/agents/39133
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43866#The-Old-Inns-of-Old-England-Volume-II--of-2-of-Our-Own-Country
 gutenberg_issued: '2013-10-02'
 gutenberg_type: Text
 identifiers:
