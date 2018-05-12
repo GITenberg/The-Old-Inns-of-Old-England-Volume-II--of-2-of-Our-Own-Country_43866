@@ -1,0 +1,29 @@
+_repo: The-Old-Inns-of-Old-England-Volume-II--of-2-of-Our-Own-Country_43866
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43866-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Harper, Charles G. (Charles George)
+    alias: Harper, C. G.
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '39133'
+    url: http://www.gutenberg.org/2009/agents/39133
+description: Illustrated by the author.
+gutenberg_issued: '2013-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hotels -- England'
+- !lcc 'DA'
+- !lcsh 'England -- Social life and customs'
+title: "The Old Inns of Old England, Volume 2 (of 2)\r\nA Picturesque Account of the\
+  \ Ancient and Storied Hostelries of Our Own Country"
+url: http://www.gutenberg.org/ebooks/43866
